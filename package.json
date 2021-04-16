@@ -1,0 +1,24 @@
+{
+  "name": "rr11backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arandamariasol/RR11-Backend.git"
+  },
+  "author": "Maria Sol Aranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arandamariasol/RR11-Backend/issues"
+  },
+  "homepage": "https://github.com/arandamariasol/RR11-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
